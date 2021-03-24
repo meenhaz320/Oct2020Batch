@@ -6,6 +6,8 @@ public class profilePage {
 		// TODO Auto-generated method stub
 
 	System.out.println("Test for git branches");
+	
+	System.out.println("Here is the locators");
 	}
 
 }
